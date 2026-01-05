@@ -26,3 +26,23 @@ A production-ready medical claims management dashboard built with React, TypeScr
 ```bash
 npm install
 npm run dev
+Tests
+npm test
+
+Deployment
+
+Deployed on Vercel with CI/CD from GitHub.
+
+Why This Project
+
+This project demonstrates real-world frontend engineering:
+
+Data fetching & mutation
+
+Derived state via hooks
+
+Separation of UI and business logic
+
+Testable utility functions
+
+Production deployment
